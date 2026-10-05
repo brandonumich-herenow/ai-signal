@@ -1,0 +1,58 @@
+{
+  "issueDate": "October 4, 2026",
+  "issueSlug": "2026-10-04",
+  "readingTime": "5\u201310 minute read",
+  "intro": "Five developments worth knowing. Not a summary of AI news\u2014the few changes most likely to affect your teaching, research, methods, institution, or professional environment.",
+  "topics": [
+    {
+      "area": "Teaching",
+      "tag": "WATCH",
+      "title": "From teaching AI use to evaluating student judgment",
+      "changed": "Michigan's Center for Academic Innovation announced faculty forums focused on AI roleplay, simulation, course redesign, tutoring and assessment.",
+      "matter": "In marketing analytics, students may increasingly produce sophisticated analyses without necessarily demonstrating that they understand them.",
+      "action": "Consider an assignment where students may use AI for analysis but must independently defend their methods, validation and managerial conclusions.",
+      "sourceLabel": "U-M Center for Academic Innovation",
+      "sourceUrl": "https://ai.umich.edu/newsletter/september-2026-executive-directors-letter/"
+    },
+    {
+      "area": "Research",
+      "tag": "EXPLORE",
+      "title": "AI consumer research is entering mainstream business infrastructure",
+      "changed": "Salesforce announced an agreement to acquire Listen Labs, whose AI agents conduct customer research and synthesize findings; Salesforce also highlights customer-behavior simulations.",
+      "matter": "AI-generated customer insight is moving beyond academic experiments into commercial marketing systems, raising questions about preference measurement, representation and validation.",
+      "action": "Watch how commercial systems demonstrate that simulated customer responses actually predict human behavior, especially under new conditions.",
+      "sourceLabel": "Salesforce announcement \u00b7 Sept. 29",
+      "sourceUrl": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/"
+    },
+    {
+      "area": "Research Methods",
+      "tag": "READ",
+      "title": "Digital twins: richer interviews don't necessarily mean better predictions",
+      "changed": "A Columbia/Wharton working paper compared AI-moderated, human-moderated and static interviews with 317 participants. AI found more customer needs at a fixed budget, but its added conversational richness did not improve quantitative prediction over static interviews.",
+      "matter": "The distinction between generating qualitative insight and predicting behavior is highly relevant to quantitative marketing research\u2014and a useful antidote to synthetic-consumer hype.",
+      "action": "Look closely at individual-level fidelity and how prediction deteriorates as validation questions move farther from the information used to construct the digital twin.",
+      "sourceLabel": "Deng, Liu, Toubia & Jain \u00b7 Sept. 24",
+      "sourceUrl": "https://arxiv.org/abs/2609.29143"
+    },
+    {
+      "area": "Ross / U-M / Higher Education",
+      "tag": "CONSIDER",
+      "title": "Michigan is funding faculty experiments with AI",
+      "changed": "U-M is offering selected faculty projects up to $15,000 plus instructional-design, project-management and technical support for AI-supported teaching and learning experiments.",
+      "matter": "It creates a relatively low-friction path from discussing AI pedagogy to testing a concrete instructional idea with institutional support.",
+      "action": "Consider whether a bounded marketing-analytics experiment\u2014perhaps AI-assisted analysis plus skills validation\u2014would be worth proposing. Verify the current deadline before acting.",
+      "sourceLabel": "U-M AI Implementation Call for Proposals",
+      "sourceUrl": "https://ai.umich.edu/blog-posts/faculty-invited-to-propose-projects-that-use-ai-to-improve-how-students-learn/"
+    },
+    {
+      "area": "Broader AI & Organizational Change",
+      "tag": "WATCH",
+      "title": "The interface to organizational work may be shifting from software to agents",
+      "changed": "Enterprise AI systems are increasingly being positioned as agents that carry out workflows rather than merely answer questions inside conventional software.",
+      "matter": "If employees increasingly direct agents rather than operate applications themselves, organizations may need to rethink training, job design, accountability and productivity measurement.",
+      "action": "Watch for evidence of improved completed work\u2014not simply more AI usage. Adoption matters less than whether organizations actually redesign workflows around the technology.",
+      "sourceLabel": "Recent enterprise-AI reporting",
+      "sourceUrl": "https://www.investors.com/news/technology/salesforce-headless-ai-software-strategy-monetization-goldman-sachs/"
+    }
+  ]
+}
