@@ -1,0 +1,58 @@
+{
+  "issueDate": "October 9, 2026",
+  "issueSlug": "2026-10-09",
+  "readingTime": "5–10 minute read",
+  "intro": "This week's connecting question is how to evaluate AI-enabled work without mistaking polished output for learning, valid evidence or reliable execution. New findings and announcements across classrooms, consumer research and organizations put measurement and human oversight at the center.",
+  "topics": [
+    {
+      "area": "Teaching",
+      "tag": "READ",
+      "title": "AI tutoring trial finds weaker engagement and grades",
+      "changed": "An October 2026 randomized study of 2,379 undergraduates and 30 instructors found that access to a course-integrated AI tutor reduced final grades by 0.37 standard deviations and learning-management-system participation by 0.90 standard deviations in the studied setting.",
+      "matter": "In analytics courses, an AI assistant may help produce answers without strengthening the practice and judgment assignments are designed to build. One study does not establish that all AI tutors are harmful.",
+      "action": "When piloting tutoring tools, measure independent learning and student participation—not just satisfaction or completed assignments.",
+      "sourceLabel": "Liu et al. · EdWorkingPaper, October 2026",
+      "sourceUrl": "https://edworkingpapers.com/ai26-1598"
+    },
+    {
+      "area": "Research",
+      "tag": "EXPLORE",
+      "title": "AI acceptance and perceived control diverge",
+      "changed": "An AP–NORC poll released October 8 found 64% of U.S. adults think AI is developing too quickly; large majorities prioritize human control and worker protection. The probability-based survey covered 2,140 adults interviewed September 24–28.",
+      "matter": "For consumer research, perceived personal benefit, control and societal risk may be more revealing than a single measure of AI favorability. Survey associations do not demonstrate causation.",
+      "action": "Consider separating perceived utility, agency, trust and distributional concerns in future AI-attitude measures.",
+      "sourceLabel": "AP–NORC · October 8, 2026",
+      "sourceUrl": "https://apnorc.org/projects/most-adults-think-ai-is-developing-too-fast/"
+    },
+    {
+      "area": "Research Methods",
+      "tag": "READ",
+      "title": "Synthetic A/B tests need human calibration",
+      "changed": "Stanford's October 9 AI Measurement Science workshop featured research on a statistical surrogacy framework for LLM-based A/B testing. The underlying paper was originally published in June; its appearance at the workshop is this week's development.",
+      "matter": "For synthetic consumers and digital twins, convincing model responses are not proof that a simulated treatment effect matches a human one. Validity depends on assumptions and comparisons with real observations.",
+      "action": "Ask what human experiments anchor a synthetic panel and whether its calibration applies to new treatments. Keep human validation in the design.",
+      "sourceLabel": "Stanford AIMS workshop · October 9",
+      "sourceUrl": "https://aimslab.stanford.edu/workshop"
+    },
+    {
+      "area": "Ross / U-M / Higher Education",
+      "tag": "CONSIDER",
+      "title": "Ross connects AI strategy to executive leadership",
+      "changed": "Michigan Ross Executive Education held its October 8–9 'Breaking Through' Leadership Studio in Los Angeles, integrating human-centered AI strategy with foresight, crisis leadership and organizational culture.",
+      "matter": "This week's Ross program illustrates an approach to AI education focused on organizational decisions and leadership, not merely technical tool use.",
+      "action": "Watch for post-event insights or cases that might be useful in teaching or faculty discussions; no immediate action is required.",
+      "sourceLabel": "Michigan Ross · October 8–9",
+      "sourceUrl": "https://michiganross.umich.edu/events/michigan-ross-executive-education-presents-breaking-through-leadership-studio-event-16166971"
+    },
+    {
+      "area": "Broader AI & Organizational Change",
+      "tag": "WATCH",
+      "title": "Google introduces a work agent with a distinct identity",
+      "changed": "On October 8 Google announced a universal Gemini agent for enterprise work, including cross-application tools, reusable skills, organizational context and coworker agents with their own Workspace identities and permissions. These are announced capabilities, not independent performance results.",
+      "matter": "When agents act across systems as team members, organizations must define delegation, access, audit trails and responsibility for outcomes.",
+      "action": "Look for independent evidence of task completion quality, exceptions, oversight cost and auditability rather than usage alone.",
+      "sourceLabel": "Google Cloud · October 8, 2026",
+      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/"
+    }
+  ]
+}
