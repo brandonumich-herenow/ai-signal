@@ -1,0 +1,58 @@
+{
+  "issueDate": "October 16, 2026",
+  "issueSlug": "2026-10-16",
+  "readingTime": "5–10 minute read",
+  "intro": "A useful pattern this week is the shift from simply providing AI assistance toward making its effects observable and accountable. New higher-education tools emphasize student discussion, consumer research separates helpful AI from persuasive AI, search adds clearer source paths, and a model developer is opening more of its operations to independent evaluators. These are distinct developments, not evidence that the underlying challenges are solved.",
+  "topics": [
+    {
+      "area": "Teaching",
+      "tag": "CONSIDER",
+      "title": "Courseware adds AI-supported discussion and oral assessment",
+      "changed": "On October 16, McGraw Hill announced new AI-generated study resources within its Connect Learning Studio for selected higher-education courses, plus a partnership with Breakout Learning for guided small-group discussions and solo oral assignments with AI-supported feedback. These are vendor-announced capabilities, not independent evidence of learning gains.",
+      "matter": "The interesting change is the combination of convenient AI study aids with opportunities to demonstrate understanding aloud. Following last week's randomized AI-tutor study, it is especially important to distinguish better access to explanations from durable learning and participation.",
+      "action": "If relevant to a Ross course, ask for a short demonstration of how discussion transcripts, oral responses and instructor review work. Judge any pilot using independent comprehension and participation measures, not vendor engagement claims.",
+      "sourceLabel": "McGraw Hill announcement · October 16",
+      "sourceUrl": "https://www.businesswire.com/news/home/20261016910923/en/"
+    },
+    {
+      "area": "Research",
+      "tag": "EXPLORE",
+      "title": "Consumers distinguish AI persuasion from AI shopping help",
+      "changed": "An Auros-commissioned survey released October 16 interviewed 4,000 adults in the U.S., U.K. and Australia (fielded August 26–September 1). In the U.S., 43% said they had felt misled by AI advertising, while 53% said AI had helped them shop. Only 20% correctly recognized heavily AI-enhanced real-product images in the survey's image-identification exercise.",
+      "matter": "For marketing research, AI's perceived role may matter as much as its technical use: an AI assistant acting for the shopper may be welcomed while AI-generated persuasion by a seller prompts skepticism. This is commissioned, descriptive survey evidence; it does not establish causal effects or population-wide behavior.",
+      "action": "A useful experimental question: hold identical product information constant while varying whether AI is framed as a shopper's assistant or a brand's persuasion tool. Measure perceived agency, authenticity, confidence and purchase intent.",
+      "sourceLabel": "Auros / Talker Research release · October 16",
+      "sourceUrl": "https://www.businesswire.com/news/home/20261016757977/en/"
+    },
+    {
+      "area": "Research Methods",
+      "tag": "WATCH",
+      "title": "AI search adds clearer paths back to original sources",
+      "changed": "On October 15, Google announced clearer inline links in AI Mode and AI Overviews, dedicated sections for official sites, and more contextual links to news and creators. This is a search-interface change, not a new scientific validation method.",
+      "matter": "AI-assisted literature and evidence discovery can fail when a polished synthesis obscures where a claim came from. More prominent links may make source checking easier, but a citation's presence does not prove its accuracy, relevance or completeness.",
+      "action": "When using AI search for early-stage literature scouting, follow citations to the original study, verify its publication date and design, and record the source directly. Compare retrieval against a scholarly database before treating an AI summary as comprehensive.",
+      "sourceLabel": "Google Search product update · October 15",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/"
+    },
+    {
+      "area": "Ross / U-M / Higher Education",
+      "tag": "KNOW",
+      "title": "Ross dean's term extended through July 2032",
+      "changed": "The University of Michigan Board of Regents voted October 15 to extend Dean Sharon F. Matusik's appointment by five years, through July 2032. Ross's announcement highlights work in experiential learning, business-and-technology education and the school's Los Angeles expansion.",
+      "matter": "For Ross faculty, a longer leadership horizon may provide continuity for curricular, research and institutional priorities. The announcement does not specify a new AI policy, funding allocation or faculty requirement.",
+      "action": "No immediate action. Watch for concrete follow-through in AI-related teaching support, cross-school collaborations and research infrastructure rather than inferring new commitments from the reappointment alone.",
+      "sourceLabel": "Michigan Ross · October 15",
+      "sourceUrl": "https://michiganross.umich.edu/news/sharon-f-matusik-will-serve-dean-ross-school-business-through-july-2032"
+    },
+    {
+      "area": "Broader AI & Organizational Change",
+      "tag": "WATCH",
+      "title": "Anthropic gives external evaluators deeper operational access",
+      "changed": "On October 15, Anthropic said it had onboarded six researchers from independent nonprofit METR with employee-like access to internal systems for risk assessment. METR can publish assessments, subject to defined confidentiality redactions. Anthropic also described more limited evaluation partnerships with other organizations.",
+      "matter": "This tests a model of independent scrutiny that goes beyond outside benchmark scores: qualified evaluators can examine internal practices and incidents. It is a governance arrangement, not yet proof that risks have been reduced; Anthropic still controls some information categories.",
+      "action": "Watch for METR's published findings and clarity about what evaluators could not access. For organizations adopting AI, ask what independent evidence exists for reliability, oversight and failure handling.",
+      "sourceLabel": "Anthropic · October 15 (clarified October 16)",
+      "sourceUrl": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    }
+  ]
+}
