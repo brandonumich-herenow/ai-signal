@@ -1,0 +1,58 @@
+{
+  "issueDate": "October 23, 2026",
+  "issueSlug": "2026-10-23",
+  "readingTime": "5–10 minute read",
+  "intro": "AI SIGNAL · Four-week monitored editorial pilot, week two. Anocha's first genuine feedback asks for more practical teaching ideas and closer attention to AI's influence on consumer search, preferences, and purchasing decisions. This issue applies that guidance without treating one response as a permanent preference. Please review relevance, accuracy, and usefulness through the site's feedback form. Findings below vary in evidentiary strength; survey attitudes, expert guidance, events, and evaluations should not be confused with causal research.",
+  "topics": [
+    {
+      "area": "Teaching",
+      "tag": "TRY",
+      "title": "Use AI to critique student reasoning, not replace it",
+      "changed": "An October 22 University of Minnesota discussion of an expert-consensus report distinguished using generative AI for practice and feedback from outsourcing the cognitive work of learning. This is expert guidance, not a new controlled classroom trial.",
+      "matter": "For MKT 618, the distinction helps instructors preserve independent judgment while exploring AI-supported feedback.",
+      "action": "Have students independently explain a consumer choice, request AI criticism, then defend a revised explanation with evidence. Assess their reasoning rather than the AI-generated prose.",
+      "sourceLabel": "University of Minnesota · October 22",
+      "sourceUrl": "https://twin-cities.umn.edu/news-events/talking-ai-and-education-university-minnesota"
+    },
+    {
+      "area": "Research",
+      "tag": "EXPLORE",
+      "title": "AI shopping help may be welcome before the final choice",
+      "changed": "Forter reported October 20 results of a Harris Poll of 2,017 U.S. adults conducted September 15–16. Among holiday shoppers, 47% said they were comfortable with AI finding deals, 44% with product search and 44% with comparisons, but only 20% with AI selecting a product. These are vendor-sponsored self-reports, not observed purchase behavior.",
+      "matter": "The difference suggests a researchable boundary between AI-assisted consideration-set formation and delegation of consumer choice. It does not establish a causal effect.",
+      "action": "Randomize a conventional product list, AI comparison, and AI single-product recommendation while holding product information constant. Measure consideration sets, trust, perceived control, and final selection.",
+      "sourceLabel": "Forter / Harris Poll · October 20",
+      "sourceUrl": "https://www.forter.com/blog/ai-holiday-shopping-us-survey/"
+    },
+    {
+      "area": "Research Methods",
+      "tag": "WATCH",
+      "title": "AI-agent evaluation needs more than answer accuracy",
+      "changed": "Microsoft Research and Carnegie Mellon University's AI Measurement Science & Engineering Center scheduled an October 22–23 workshop on evaluating AI agents, including frameworks, tools, and domain-specific tests. The workshop is a research agenda, not a validated evaluation standard.",
+      "matter": "When AI agents retrieve product information or take actions, evaluation must consider source accuracy, omitted alternatives, adherence to constraints, and what the agent actually did.",
+      "action": "For AI-assisted consumer-search studies, log retrieved products, attributes, recommendations, and actions; predefine checks for missing alternatives and unsupported claims. Watch for the workshop's public synthesis.",
+      "sourceLabel": "Microsoft Research / CMU · October 22–23",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/event/advancing-the-science-of-ai-agent-evaluation/"
+    },
+    {
+      "area": "Ross / U-M / Higher Education",
+      "tag": "KNOW",
+      "title": "Michigan AI Symposium offers a local collaboration opportunity",
+      "changed": "The Michigan Artificial Intelligence Laboratory scheduled its October 20 symposium, 'Foundational Models: From Academia to Industry to Society,' featuring research talks, student presentations, and demonstrations. The event listing does not itself establish new research findings or changes in Ross policy.",
+      "matter": "The symposium provides a practical route for Ross faculty to identify technical collaborators whose work could inform marketing, consumer behavior, or classroom cases.",
+      "action": "Review any posted talk materials and identify one project that could support a measurable marketing-research question. Do not infer new university commitments from the event alone.",
+      "sourceLabel": "Michigan AI Lab / U-M CSE · October 20",
+      "sourceUrl": "https://cse.engin.umich.edu/event/2026-ai-symposium-foundational-models-from-academia-to-industry-to-society"
+    },
+    {
+      "area": "Broader AI & Organizational Change",
+      "tag": "WATCH",
+      "title": "Independent review probes the limits of AI-agent monitoring",
+      "changed": "On October 22, METR described a three-week, high-access pilot with Redwood Research examining OpenAI's agent-monitoring system as it existed in July. The reviewers identified monitoring weaknesses. OpenAI reported patches to production-relevant issues; METR had not independently tested those fixes at publication.",
+      "matter": "The case illustrates why organizations should seek independent operational testing of AI safeguards. Historical findings do not establish that the same weaknesses remain in current systems.",
+      "action": "For agent deployments, ask which actions are logged, who tests monitoring independently, and whether reported fixes receive follow-up evaluation.",
+      "sourceLabel": "METR · October 22",
+      "sourceUrl": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/"
+    }
+  ]
+}
